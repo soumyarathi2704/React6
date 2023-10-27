@@ -4,7 +4,7 @@ import './Header.css';
 function Header() {
   return (
     <header>
-      <h1>Karan 'KJM' Mukherjee</h1>
+      <h1>Soumya Rathi</h1>
       <p>Web Developer</p>
     </header>
   );
